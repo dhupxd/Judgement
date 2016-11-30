@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Judgement</string>
+    <string name="match">今日比赛</string>
+    <string name="eliminate">请选择队伍</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_btn">登 　录</string>
+    <!-- 空格需要全角形式的 -->
+    <!-- color-->
+    <color name="deep_grey">#383838</color>
+    <color name="moredeep_gray">#1C1C1C</color>
+    <color name="green">#43CD80</color>
+    <color name="shallow_pink">#EEE0E5</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="shallow_yellow">#CDC9A5</color>
+    <color name="blue_1">#5CACEE</color>
+
+</resources>
